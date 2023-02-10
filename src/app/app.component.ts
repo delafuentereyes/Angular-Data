@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { gamesData } from '../data/games.data';
+import { Game } from 'src/model/game.model';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tarea';
+  title = 'Games catalog';
+
+  games = gamesData;
+
+  onGameSelected(game: Game) {
+    console.log("App Component onMovieSelected", game);
+  }
 }
