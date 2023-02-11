@@ -4,7 +4,7 @@ export const gamesData = [
       Year: "2017",
       Released: "28 Aug 2018",
       Category: "FPS",
-      Poster: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhipertextual.com%2F2017%2F09%2F3-cosas-debes-saber-jugar-destiny-2-pero-no-destiny&psig=AOvVaw37H2qdTrRPOPWZqnGVjXap&ust=1676148064194000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiy_qHoi_0CFQAAAAAdAAAAABAR",
+      Poster: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81p-wa-ebWL._SX425_.jpg",
       metacriticRating: "83",
     },
     {
@@ -12,7 +12,7 @@ export const gamesData = [
       Year: "2015",
       Released: "18 May 2015",
       Category: "Adventure",
-      Poster: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Witcher_3%3A_Wild_Hunt&psig=AOvVaw3Pr-vWQIGZIDLHMj8242Ei&ust=1676148305054000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjX4ZTpi_0CFQAAAAAdAAAAABAQ",
+      Poster: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81XvV2De-wL._SX522_.jpg",
       metacriticRating: "93",
     },
     {
@@ -20,7 +20,7 @@ export const gamesData = [
       Year: "2012",
       Released: "9 Oct 2012",
       Category: "Stealth", 
-      Poster: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideojuegos.fandom.com%2Fes%2Fwiki%2FDishonored_%2528saga%2529&psig=AOvVaw3L3xevhmeXVUEEiko3eJGZ&ust=1676148748894000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDFtejqi_0CFQAAAAAdAAAAABAI",
+      Poster: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91YkbwnjleL._SY500_.jpg",
       metacriticRating: "91",
     },
   ];
